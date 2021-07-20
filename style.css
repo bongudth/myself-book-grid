@@ -1,0 +1,26 @@
+.container {
+  margin-top: 100px;
+}
+
+.book-img {
+  width: 180px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.book-name {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.book-author {
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+.book-price {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
